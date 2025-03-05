@@ -1,0 +1,13 @@
+body{margin: 0; background;
+background-repeat: no-repeat; background-size: cover;
+background-position: right; background-clip: inherit;background-color: #DC143C}
+.a1{width: 400px; margin: 30px auto;padding: 20px; 
+background-color: #C0C0C0; box-shadow: 0 5px 10px #ccc; 
+border-radius: 10px}
+.a2{display: block; width: 200px; height: 200px; 
+margin: 0 auto; border-radius: 50%}
+.a3{font-size: 20px; text-align: center;
+color: darkgreen}
+.a4{font-size: 14px}
+.a5{font-size: 18px;color: blue}
+.a6{padding-left: 0; list-style-position: inside; font-size: 14px"
