@@ -1,0 +1,15 @@
+@import url ("https://fonts.googleapis.com/css?family=Cal Sans&display=swap");
+    body{font-family: Cal Sans, serif;}
+.videofon{height: 70vh; width: 100%;
+position: relative; display: flex; justify-content: center;
+align-items: center;}
+.videofon video{height: 70vh; width: 100%;
+position: absolute; top: 0; left: 0;
+object-fit: cover; z-index: 1;}
+.black{height: 70vh; width: 100%;
+position: absolute; top: 0; left: 0;
+object-fit: cover; z-index: 2; background-color: black;background:rgba(0.6,0.6,0.6,0.6)}
+.video-text{color: aquamarine;font-family: sans-serif; font-size: 50px;
+z-index: 2;}
+.slide-text{color: aquamarine; margin: auto auto}
+.media-links{display: flex; justify-content: center; align-items: center;}
